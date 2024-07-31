@@ -1,0 +1,50 @@
+*{
+    background-color: black;
+    color: white;
+    width: 0px;
+margin: 0px;
+   
+}   
+div {
+    width: 100px;
+    border: 1px solid rgb(35, 35, 35);
+    padding: 60px;
+    height: 600px;
+  }
+  
+.img{
+    width: 150px;
+    padding-top: 10%;
+    padding-right: 3%;
+    margin: 3px;
+}
+.notimg
+{
+
+    width:20px;
+    padding-top: 40%;
+    padding-right: 40%;
+    display: flex;
+    justify-content: space-between;
+}
+.alsoimg
+{
+    width:20px;
+    padding-top: 40%;
+    padding-right: 40%;
+    display: flex;
+    justify-content: space-between;
+}
+.imgasw
+{
+    width:50px;
+    padding-top: 50%;
+    padding-right: 60%;
+    display: flex;
+    justify-content: space-between; 
+}
+.box {
+    width: 100px;
+    border: 1px solid rgb(255, 0, 0);
+    padding: 60px;
+    height: 600px;}  
